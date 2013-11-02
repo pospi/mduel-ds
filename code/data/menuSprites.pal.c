@@ -1,0 +1,6 @@
+//Palette created using Mollusk's PAGfxConverter
+#ifndef _MENUSPRITES_PAL_C
+#define _MENUSPRITES_PAL_C
+const unsigned short menuSprites_Pal[37] __attribute__ ((aligned (4))) = {
+32768, 36996, 48623, 52851, 47566, 35939, 41224, 64478, 65535, 63421, 38053, 59193, 53908, 58136, 62363, 61308, 61340, 62364, 62331, 62332, 61307, 61339, 57079, 60250, 33760, 32799, 54965, 56022, 51794, 53909, 53940, 54964, 54933, 50737, 49680, 65024, 54932};
+#endif

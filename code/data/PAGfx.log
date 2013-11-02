@@ -1,0 +1,55 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Black
+
+15 sprites :
+  playerSprite1 : 256colors, 32x2176, Pal : playerSprite1_Pal, -> playerSprite1_Sprite
+  playerSprite2 : 256colors, 32x2176, Pal : playerSprite2_Pal, -> playerSprite2_Sprite
+  playerSprite3 : 256colors, 32x2176, Pal : playerSprite3_Pal, -> playerSprite3_Sprite
+  playerSprite4Pal : 256colors, 32x2176, Pal : playerSprite4_Pal, -> playerSprite4Pal_Sprite
+  player1000V : 256colors, 32x2144, Pal : player1000V_Pal, -> player1000V_Sprite
+  envSprites : 256colors, 16x160, Pal : envSprites_Pal, -> envSprites_Sprite
+  effectSprites : 256colors, 32x1120, Pal : effectSprites_Pal, -> effectSprites_Sprite
+  pickupSprites : 256colors, 16x464, Pal : pickupSprites_Pal, -> pickupSprites_Sprite
+  dunceHatSprite : 256colors, 32x2176, Pal : dunceHatSprite_Pal, -> dunceHatSprite_Sprite
+  menuLogo : 256colors, 64x32, Pal : menuLogo_Pal, -> menuLogo_Sprite
+  menuLogo2 : 256colors, 64x32, Pal : menuLogo2_Pal, -> menuLogo2_Sprite
+  bootsSprite : 256colors, 32x2176, Pal : bootsSprite_Pal, -> bootsSprite_Sprite
+  menuCursors : 256colors, 16x48, Pal : menuCursors_Pal, -> menuCursors_Sprite
+  menuSprites : 256colors, 64x288, Pal : menuSprites_Pal, -> menuSprites_Sprite
+  spawnerSpriteX : 256colors, 64x704, Pal : spawnerSpriteX_Pal, -> spawnerSpriteX_Sprite
+
+5 backgrounds :
+  menuBG : RotBg, 256x256, Pal : menuBG_Pal, 243 tiles -> menuBG_Tiles and menuBG_Map
+  controlsBG : EasyBg, 256x192, Pal : controlsBG_Pal, 564 tiles -> controlsBG_Tiles and controlsBG_Map
+  menuBGbottom : EasyBg, 256x256, Pal : menuBGbottom_Pal, 560 tiles -> menuBGbottom_Tiles and menuBGbottom_Map
+  Font : TileBg, 256x192, Pal : Font_Pal, 91 tiles -> Font_Tiles and Font_Map
+  spawnerBG : EasyBg, 256x192, Pal : spawnerBG_Pal, 151 tiles -> spawnerBG_Tiles and spawnerBG_Map
+
+20 palettes :
+  playerSprite1_Pal, 9 colors
+  playerSprite2_Pal, 9 colors
+  playerSprite3_Pal, 9 colors
+  playerSprite4_Pal, 9 colors
+  player1000V_Pal, 8 colors
+  envSprites_Pal, 21 colors
+  effectSprites_Pal, 28 colors
+  pickupSprites_Pal, 28 colors
+  dunceHatSprite_Pal, 3 colors
+  menuLogo_Pal, 13 colors
+  menuLogo2_Pal, 10 colors
+  bootsSprite_Pal, 4 colors
+  menuCursors_Pal, 4 colors
+  menuSprites_Pal, 37 colors
+  spawnerSpriteX_Pal, 115 colors
+  menuBG_Pal, 200 colors
+  controlsBG_Pal, 112 colors
+  menuBGbottom_Pal, 25 colors
+  Font_Pal, 2 colors
+  spawnerBG_Pal, 54 colors
+
+Converted in 0 minutes 0 seconds
+
+Finished !
